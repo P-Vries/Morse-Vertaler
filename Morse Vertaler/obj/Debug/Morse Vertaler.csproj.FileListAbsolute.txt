@@ -1,0 +1,10 @@
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\bin\Debug\Morse Vertaler.exe.config
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\bin\Debug\Morse Vertaler.exe
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\bin\Debug\Morse Vertaler.pdb
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse Vertaler.csprojAssemblyReference.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse_Vertaler.Properties.Resources.resources
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse Vertaler.csproj.GenerateResource.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse Vertaler.csproj.CoreCompileInputs.cache
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse Vertaler.exe
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse Vertaler.pdb
+Z:\Medewerkers\Pim\C# Projecten\ITVitae\Opdracht 9 rood\Morse Vertaler\Morse Vertaler\obj\Debug\Morse_Vertaler.Form1.resources
